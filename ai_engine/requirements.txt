@@ -1,0 +1,9 @@
+flask
+requests
+python-dotenv
+openpyxl
+faster-whisper
+tzdata
+ddgs
+beautifulsoup4
+anthropic

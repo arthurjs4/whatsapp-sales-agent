@@ -1,0 +1,17 @@
+[
+ {
+  "de": "agencia",
+  "texto": "Oi Bruno, posso mandar um vídeo sobre a Mecânica Rápida?",
+  "quando": 1794622171
+ },
+ {
+  "de": "cliente",
+  "texto": "Quem é você?",
+  "quando": 1794665371
+ },
+ {
+  "de": "agencia",
+  "texto": "Sou da agência que ajuda negócios locais a aparecerem no Google. Posso mostrar em vídeo de 4 min?",
+  "quando": 1794674011
+ }
+]

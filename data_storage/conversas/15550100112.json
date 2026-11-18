@@ -1,0 +1,27 @@
+[
+ {
+  "de": "agencia",
+  "texto": "Oi Ícaro, posso mandar um vídeo sobre a Fit Total?",
+  "quando": 1792807771
+ },
+ {
+  "de": "cliente",
+  "texto": "Pode",
+  "quando": 1792894171
+ },
+ {
+  "de": "agencia",
+  "texto": "Segue: loom.com/share/exemplo6",
+  "quando": 1792980571
+ },
+ {
+  "de": "agencia",
+  "texto": "Conseguiu dar uma olhada?",
+  "quando": 1793239771
+ },
+ {
+  "de": "cliente",
+  "texto": "Vi sim, mas achei caro e fechei com outra empresa.",
+  "quando": 1793326171
+ }
+]

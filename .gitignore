@@ -1,0 +1,15 @@
+.env
+*.env
+!.env.example
+venv/
+venv*/
+__pycache__/
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+session/
+*.log
+*.xlsx
+# Dados reais de conversas/leads nunca devem ser commitados.
+data_storage/arquivo/
+data_storage_real/

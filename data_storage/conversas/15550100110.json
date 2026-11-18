@@ -1,0 +1,27 @@
+[
+ {
+  "de": "agencia",
+  "texto": "Oi Otávio, posso mandar um vídeo sobre o Estúdio Vento Sul?",
+  "quando": 1793671771
+ },
+ {
+  "de": "cliente",
+  "texto": "Pode sim",
+  "quando": 1793714971
+ },
+ {
+  "de": "agencia",
+  "texto": "Segue: loom.com/share/exemplo4",
+  "quando": 1793758171
+ },
+ {
+  "de": "agencia",
+  "texto": "Conversamos e segue a proposta por escrito, como combinado.",
+  "quando": 1794103771
+ },
+ {
+  "de": "cliente",
+  "texto": "Recebi, vou analisar com calma.",
+  "quando": 1794190171
+ }
+]
