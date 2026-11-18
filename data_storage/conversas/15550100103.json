@@ -2,26 +2,26 @@
  {
   "de": "agencia",
   "texto": "Olá Marina, vi o perfil da Clínica Vitta. Posso te mostrar um vídeo de 4 min?",
-  "quando": 1794276571
+  "quando": 1794277951
  },
  {
   "de": "cliente",
   "texto": "Pode mandar",
-  "quando": 1794285211
+  "quando": 1794286591
  },
  {
   "de": "agencia",
   "texto": "Segue: loom.com/share/exemplo2. Terça às 15h ou quarta às 10h?",
-  "quando": 1794362971
+  "quando": 1794364351
  },
  {
   "de": "cliente",
   "texto": "Terça às 15h está ótimo",
-  "quando": 1794449371
+  "quando": 1794450751
  },
  {
   "de": "agencia",
   "texto": "Fechado! Envio o convite agora.",
-  "quando": 1794449371
+  "quando": 1794450751
  }
 ]

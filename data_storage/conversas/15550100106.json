@@ -2,31 +2,31 @@
  {
   "de": "agencia",
   "texto": "Olá Lucas! Posso te mandar um vídeo de 4 min sobre o Sabor da Praça?",
-  "quando": 1793239771
+  "quando": 1793241151
  },
  {
   "de": "cliente",
   "texto": "Pode",
-  "quando": 1793326171
+  "quando": 1793327551
  },
  {
   "de": "agencia",
   "texto": "Segue: loom.com/share/exemplo3. Quarta às 11h para conversarmos?",
-  "quando": 1793412571
+  "quando": 1793413951
  },
  {
   "de": "cliente",
   "texto": "Combinado",
-  "quando": 1793498971
+  "quando": 1793500351
  },
  {
   "de": "agencia",
   "texto": "Obrigado pela conversa! Segue a proposta por escrito.",
-  "quando": 1793930971
+  "quando": 1793932351
  },
  {
   "de": "cliente",
   "texto": "Fechado, pode começar. Pagamento feito.",
-  "quando": 1794103771
+  "quando": 1794105151
  }
 ]

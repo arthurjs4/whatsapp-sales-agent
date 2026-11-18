@@ -2,16 +2,16 @@
  {
   "de": "agencia",
   "texto": "Boa tarde! Vi uma avaliação agradecendo à Carla pelo atendimento no Café Aurora. Posso te mandar um vídeo de 4 min com o que achei na busca do Google?",
-  "quando": 1794449371
+  "quando": 1794450751
  },
  {
   "de": "cliente",
   "texto": "Pode sim",
-  "quando": 1794492571
+  "quando": 1794493951
  },
  {
   "de": "agencia",
   "texto": "Segue o vídeo: loom.com/share/exemplo1. Quinta ou sexta, qual fica melhor para 15 min?",
-  "quando": 1794535771
+  "quando": 1794537151
  }
 ]

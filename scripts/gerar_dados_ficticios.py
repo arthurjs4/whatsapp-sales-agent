@@ -19,8 +19,8 @@ CASOS = [
    (8, "a", "Olá Marina, vi o perfil da Clínica Vitta. Posso te mostrar um vídeo de 4 min?"),
    (7.9, "c", "Pode mandar"), (7, "a", "Segue: loom.com/share/exemplo2. Terça às 15h ou quarta às 10h?"),
    (6, "c", "Terça às 15h está ótimo"), (6, "a", "Fechado! Envio o convite agora.")]),
- ("15550100104", "Diego", "Oficina Central", "Newark", "PERDIDO", [
-   (14, "a", "Oi Diego! Pesquisei 'mecânica em Newark' e achei alguns pontos para melhorar. Posso mandar um vídeo?"),
+ ("15550100104", "Murilo", "Oficina Central", "Newark", "PERDIDO", [
+   (14, "a", "Oi Murilo! Pesquisei 'mecânica em Newark' e achei alguns pontos para melhorar. Posso mandar um vídeo?"),
    (13, "c", "Obrigado, mas não tenho interesse no momento.")]),
  ("15550100105", "Patrícia", "Bela Casa Decor", "Atlanta", "EM_CONVERSA", [
    (3, "a", "Oi Patrícia, tudo bem? Vi as avaliações da Bela Casa Decor. Posso te mostrar uma ideia em vídeo?"),
@@ -33,8 +33,8 @@ CASOS = [
  ("15550100107", "Helena", "Pet Feliz", "Dallas", "AGUARDANDO_RETORNO", [
    (9, "a", "Oi Helena, posso te mostrar em vídeo como o Pet Feliz aparece no Google?"),
    (8, "c", "Vou ver com meu sócio e te retorno.")]),
- ("15550100108", "Tiago", "Auto Brilho", "Houston", "PROSPECCAO", [
-   (1, "a", "Oi Tiago! Pesquisei 'estética automotiva em Houston' e vi uma oportunidade. Posso te mandar um vídeo curto?")]),
+ ("15550100108", "Gael", "Auto Brilho", "Houston", "PROSPECCAO", [
+   (1, "a", "Oi Gael! Pesquisei 'estética automotiva em Houston' e vi uma oportunidade. Posso te mandar um vídeo curto?")]),
  ("15550100109", "Bianca", "Doce Ponto", "Austin", "LOOM_ACEITO", [
    (2, "a", "Oi Bianca! Posso te mostrar um vídeo de 4 min sobre o Doce Ponto?"),
    (1.9, "c", "Claro, manda!")]),
@@ -50,15 +50,15 @@ CASOS = [
    (25, "a", "Oi Ícaro, posso mandar um vídeo sobre a Fit Total?"), (24, "c", "Pode"),
    (23, "a", "Segue: loom.com/share/exemplo6"), (20, "a", "Conseguiu dar uma olhada?"),
    (19, "c", "Vi sim, mas achei caro e fechei com outra empresa.")]),
- ("15550100113", "Renata", "Floricultura Jardim", "Phoenix", "FOLLOWUP", [
-   (7, "a", "Oi Renata! Pesquisei 'floricultura em Phoenix'. Posso te mostrar o que encontrei em vídeo?"),
+ ("15550100113", "Elisa", "Floricultura Jardim", "Phoenix", "FOLLOWUP", [
+   (7, "a", "Oi Elisa! Pesquisei 'floricultura em Phoenix'. Posso te mostrar o que encontrei em vídeo?"),
    (4, "a", "Fiz a busca de novo e vi uma novidade. Te mando o vídeo?"),
    (2, "a", "Última mensagem para não te encher. Se um dia quiser ver, é só me chamar.")]),
  ("15550100114", "Bruno", "Mecânica Rápida", "Portland", "EM_CONVERSA", [
    (4, "a", "Oi Bruno, posso mandar um vídeo sobre a Mecânica Rápida?"), (3.5, "c", "Quem é você?"),
    (3.4, "a", "Sou da agência que ajuda negócios locais a aparecerem no Google. Posso mostrar em vídeo de 4 min?")]),
- ("15550100115", "Camila", "Ateliê Camila", "San Diego", "LOOM_ENVIADO", [
-   (5, "a", "Oi Camila! Posso te mostrar um vídeo de 4 min sobre o Ateliê?"), (4.8, "c", "Pode mandar"),
+ ("15550100115", "Yasmin", "Ateliê Yasmin", "San Murilo", "LOOM_ENVIADO", [
+   (5, "a", "Oi Yasmin! Posso te mostrar um vídeo de 4 min sobre o Ateliê?"), (4.8, "c", "Pode mandar"),
    (4.5, "a", "Segue: loom.com/share/exemplo7. Quinta às 10h ou sexta às 16h?"), (1, "a", "Conseguiu dar uma olhada?")]),
 ]
 

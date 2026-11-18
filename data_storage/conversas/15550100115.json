@@ -1,22 +1,22 @@
 [
  {
   "de": "agencia",
-  "texto": "Oi Camila! Posso te mostrar um vídeo de 4 min sobre o Ateliê?",
-  "quando": 1794535771
+  "texto": "Oi Yasmin! Posso te mostrar um vídeo de 4 min sobre o Ateliê?",
+  "quando": 1794537151
  },
  {
   "de": "cliente",
   "texto": "Pode mandar",
-  "quando": 1794553051
+  "quando": 1794554431
  },
  {
   "de": "agencia",
   "texto": "Segue: loom.com/share/exemplo7. Quinta às 10h ou sexta às 16h?",
-  "quando": 1794578971
+  "quando": 1794580351
  },
  {
   "de": "agencia",
   "texto": "Conseguiu dar uma olhada?",
-  "quando": 1794881371
+  "quando": 1794882751
  }
 ]
